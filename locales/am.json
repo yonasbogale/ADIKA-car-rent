@@ -1,0 +1,29 @@
+{
+    "rent_a_car": "መኪና ኪራይ",
+    "search_a_car": "መኪና ፈልግ",
+    "all": "ሁሉም",
+    "suv": "ኤስ.አው.ቪ",
+    "sedan": "ሴዳን",
+    "mpv": "ኤም.ፒ.ቪ",
+    "hatchback": "ሃችባክ",
+    "most_rented": "በጣም የተከራየው",
+    "per_day": "/ቀን",
+    "currency": "ብር",
+    "profile": {
+        "displayName": "ስም አስገቡ",
+        "bio": "ባዮ",
+        "email": "ኢሜይል",
+        "phoneNumber": "ስልክ ቁጥር"
+    },
+    "settings": {
+        "profilePicture": "ፎትዎን አስተካክል",
+        "privacy": "ግላሽ ማቅረብ",
+        "notifications": "ማሳወቅ ማቅረብ",
+        "language": "ቋንቋ",
+        "helpSupport": "እገዛን እና ደህንነት",
+        "logout": "ውጣ"
+    },
+    "modal": {
+        "selectLanguage": "ቋንቋ ይምረጡ"
+    }
+}

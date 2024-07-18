@@ -1,0 +1,29 @@
+{
+    "rent_a_car": "Rent a Car",
+    "search_a_car": "Search a Car",
+    "all": "All",
+    "suv": "Suv",
+    "sedan": "Sedan",
+    "mpv": "Mpv",
+    "hatchback": "Hatchback",
+    "most_rented": "Most Rented",
+    "per_day": "/day",
+    "currency": "Birr",
+    "profile": {
+        "displayName": "Display Name",
+        "bio": "Bio",
+        "email": "Email",
+        "phoneNumber": "Phone Number"
+    },
+    "settings": {
+        "profilePicture": "Edit Profile Picture",
+        "privacy": "Privacy Settings",
+        "notifications": "Notification Settings",
+        "language": "Language",
+        "helpSupport": "Help & Support",
+        "logout": "Logout"
+    },
+    "modal": {
+        "selectLanguage": "Select Language"
+    }
+}
